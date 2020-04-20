@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------
 --Vhdl code and simulation for 4-16 decoder
---Temel olarak kodlanmas? verinin ilk halini tekrar elde etmek için kullan?l?r
---Ekrem A?CA
+--Temel olarak kodlanmasi verinin ilk halini tekrar elde etmek için kullanilir
+--Ekrem AGCA
 ----------------------------------------------------------------------------------
 Library IEEE;
 Use IEEE.STD_logic_1164.all;
